@@ -1,5 +1,19 @@
 body {
+  color: #006dc0;
   font-family: 'codecartoons';
   font-size: 40px;
   letter-spacing: 0.1em;
+}
+
+a {
+  color: #006dc0;
+}
+
+img {
+  width: 100%;
+}
+
+.main {
+  margin: auto;
+  max-width: 1100px;
 }
